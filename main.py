@@ -31,7 +31,7 @@ price_list = [price.get_text().replace("/mo", "").replace("+", "").strip() for p
 time.sleep(10)
 
 # Google Form link
-FORM_LINK = "https://forms.gle/tSbCY8TmDpVycsLS8"
+FORM_LINK = Replace With Your Google Form link
 
 # Set Chrome options to keep the browser open after script ends
 chrome_options = webdriver.ChromeOptions()
